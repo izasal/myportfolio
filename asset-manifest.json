@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.90f754cb.css",
-    "main.js": "/myportfolio/static/js/main.49fd9962.js",
+    "main.js": "/myportfolio/static/js/main.fda243fb.js",
+    "static/media/Web1.png": "/myportfolio/static/media/Web1.c6743490507f979e0d33.png",
+    "static/media/Web2.png": "/myportfolio/static/media/Web2.eca7c35b5e1ff3b90e55.png",
     "static/media/Media1.png": "/myportfolio/static/media/Media1.e2cf6480e8f100d4872f.png",
     "static/media/Illustration8.png": "/myportfolio/static/media/Illustration8.9253cf5bc7e64e15d242.png",
     "static/media/Illustration3.png": "/myportfolio/static/media/Illustration3.55cd9c71092da4dae09d.png",
@@ -9,6 +11,7 @@
     "static/media/Lotus1.png": "/myportfolio/static/media/Lotus1.7f17c9720ef52cb6a780.png",
     "static/media/Lotus2.png": "/myportfolio/static/media/Lotus2.f03a46f68235b19940e2.png",
     "static/media/Illustration4.png": "/myportfolio/static/media/Illustration4.9ca84705936069e06956.png",
+    "static/media/Coffee1.png": "/myportfolio/static/media/Coffee1.4ce53a3df154aff9727a.png",
     "static/media/Sakuracafe1.png": "/myportfolio/static/media/Sakuracafe1.615da42c768fe654cbb1.png",
     "static/media/Illustration5.png": "/myportfolio/static/media/Illustration5.5341dc7f5963ec24badc.png",
     "static/media/Cereal1.png": "/myportfolio/static/media/Cereal1.81ebb0c567ddd43f3925.png",
@@ -22,10 +25,10 @@
     "static/media/one.png": "/myportfolio/static/media/one.bc1da36c0922ef436f65.png",
     "index.html": "/myportfolio/index.html",
     "main.90f754cb.css.map": "/myportfolio/static/css/main.90f754cb.css.map",
-    "main.49fd9962.js.map": "/myportfolio/static/js/main.49fd9962.js.map"
+    "main.fda243fb.js.map": "/myportfolio/static/js/main.fda243fb.js.map"
   },
   "entrypoints": [
     "static/css/main.90f754cb.css",
-    "static/js/main.49fd9962.js"
+    "static/js/main.fda243fb.js"
   ]
 }
